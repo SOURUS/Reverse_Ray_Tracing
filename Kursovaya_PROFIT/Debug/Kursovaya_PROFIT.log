@@ -1,0 +1,10 @@
+﻿Build started 25.09.2014 19:53:03.
+     1>Project "C:\Users\Александр\Desktop\github\Reverse_Ray_Tracing\Kursovaya_PROFIT\Kursovaya_PROFIT.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Александр\Desktop\github\Reverse_Ray_Tracing\Debug\Kursovaya_PROFIT.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib opengl32.lib glu32.lib glut32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Александр\Desktop\github\Reverse_Ray_Tracing\Debug\Kursovaya_PROFIT.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Александр\Desktop\github\Reverse_Ray_Tracing\Debug\Kursovaya_PROFIT.lib" /MACHINE:X86 Debug\main.obj
+         Kursovaya_PROFIT.vcxproj -> C:\Users\Александр\Desktop\github\Reverse_Ray_Tracing\Debug\Kursovaya_PROFIT.exe
+     1>Done Building Project "C:\Users\Александр\Desktop\github\Reverse_Ray_Tracing\Kursovaya_PROFIT\Kursovaya_PROFIT.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.49
